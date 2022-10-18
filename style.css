@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, rgb(254, 240, 138), rgb(187, 247, 208), rgb(34, 197, 94));
+}
+.obj-btn{
+    font-size: 20px;
+    background-color: #ff872c;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    width: 250px;
+}
+canvas{
+    border-radius: 20px;
+    border: solid 3px black;
+}
